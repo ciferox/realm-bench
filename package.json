@@ -1,6 +1,7 @@
 {
   "name": "bench",
-  "description": "Benchmarking cli utility",
+  "version": "0.8.0",
+  "description": "Benchmarking utility",
   "author": "Maximus <smaxim@ciferox.com>",
   "devDependencies": {
     "eslint": "latest",
