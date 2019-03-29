@@ -1,4 +1,4 @@
-# Adone benchmarking realm
+# Adone realm for benchmarking
 
 Export 'bench' application command for main adone cli.
 
