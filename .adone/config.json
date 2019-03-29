@@ -1,0 +1,24 @@
+{
+    "exports": [
+        {
+            "type": "app.command",
+            "name": "bench",
+            "description": "Benchmarking utility",
+            "subsystem": "lib"
+        }
+    ],
+    "scheme": {
+        "command": {
+            "description": "CLI subsystem",
+            "src": "src/index.js",
+            "dst": "lib",
+            "task": "transpile"
+        },
+        "benchmark": {
+            "description": "A benchmarking library",
+            "src": "src/benchmark.js",
+            "dst": "lib",
+            "original": "https://github.com/bestiejs/benchmark.js/"
+        }
+    }
+}

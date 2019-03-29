@@ -1,0 +1,13 @@
+{
+  "name": "bench",
+  "description": "Benchmarking cli utility",
+  "author": "Maximus <smaxim@ciferox.com>",
+  "devDependencies": {
+    "eslint": "latest",
+    "babel-eslint": "latest",
+    "eslint-plugin-adone": "latest",
+    "eslint-plugin-babel": "latest",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-flowtype": "latest"
+  }
+}
