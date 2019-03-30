@@ -2,7 +2,7 @@
   "name": "bench",
   "version": "0.8.0",
   "description": "Benchmarking utility",
-  "author": "Maximus <smaxim@ciferox.com>",
+  "author": "ADONE core team <info@adone.io>",
   "devDependencies": {
     "eslint": "latest",
     "babel-eslint": "latest",
